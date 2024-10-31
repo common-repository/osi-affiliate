@@ -1,0 +1,250 @@
+fieldset > legend{
+	padding-top: 10px;
+}
+#frmmainForm{
+	padding: 5px;
+}
+td > a > .icon-remove-sign{
+	color: hsl(0, 100%, 50%); 
+	font-size: 20px;
+}
+td > a > .icon-remove-sign:hover,
+td > a > .icon-remove-sign:active{
+        color: hsl(0, 100%, 40%);
+}
+td > a > .icon-remove-sign:hover:active{
+        color: hsl(0, 100%, 30%);
+}
+#system_notice_area_dismiss{
+color: #d54e21;
+cursor: pointer;
+}
+.system_notice_area_style1 {
+	background: #1a87b9;
+	border: 1px solid #1a87b9;
+}
+
+.system_notice_area_style0 {
+	background: #1a87b9;
+	border: 1px solid brown;
+}
+
+
+#button {
+	width: 140px;
+	background-color: #E4E4E4;
+	cursor: pointer;
+	-webkit-border-radius: 40px;
+	-moz-border-radius: 40px;
+	border-radius: 40px;
+}
+
+#button:hover {
+	border: 1px solid #797979;
+}
+
+a {
+	text-decoration: none;
+}
+
+label{
+	cursor:default;
+}
+
+#img{
+	width:20px;
+	height: 20px;
+}
+
+#tdCenter{
+	text-align: center;
+}
+.bottonWidth{
+	width:120px;
+}
+#buttonDesign{
+	width:120px;
+}
+
+#bottomBorderNone {
+	border-bottom:none;
+}
+
+legend{
+	font-size: 14px;
+}
+#content_osi_hss_snippet_selecterList_text{
+	width:90px;
+}
+
+/*admin style*/
+
+#system_notice_area {
+	position: absolute;
+	margin-bottom:40px;
+	left:25%;
+	width:50%;
+	height:20px;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	font-weight:bold;
+	display:none;
+	padding:10px 0 10px 3px;
+	color: #FFF;
+	text-align: center;
+	top: 0px;
+	z-index:100000;
+	font-size: 20px;
+	}
+
+
+		.osi_suggest,.osi_star,.osi_donate,.osi_fbook,.osi_support,.osi_twitt,.osi_gplus,.osi_linkedin{
+	height:16px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 20px;
+	text-decoration: none;
+	
+	vertical-align: middle;
+	display: inline-block;
+	
+	}
+
+#html-snippet-shortcode .plugin-version-author-uri {
+	
+	background-color: #F4F4F4;
+	min-height:16px;
+	border-radius:5px;
+	margin-bottom: 10px;
+	font-weight:bold;
+	padding: 5px;
+	color: #111111;
+
+-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+	        
+}
+#html-snippet-shortcode{
+background: #a9e8f5; /* Old browsers */
+
+background: -moz-linear-gradient(top,  #ffffff 0%, #a9e8f5 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#a9e8f5)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #ffffff 0%,#a9e8f5 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #ffffff 0%,#a9e8f5 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #ffffff 0%,#a9e8f5 100%); /* IE10+ */
+background: linear-gradient(top,  #ffffff 0%,#a9e8f5 100%); /* W3C */
+
+
+}
+
+#html-snippet-shortcode .plugin-version-author-uri {
+	
+	background-color: #F4F4F4;
+	min-height:16px;
+	border-radius:5px;
+	margin-bottom: 10px;
+	font-weight:bold;
+	padding: 5px;
+	color: #111111;
+
+-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+	        
+}
+#html-snippet-shortcode th,#html-snippet-shortcode td{
+background: #a9e8f5; /* Old browsers */
+background: linear-gradient( #ffffff,#a9e8f5 ); /* W3C */
+
+
+}
+
+#html-snippet-shortcode .plugin-title{
+
+background: url('../images/osi_logo.png'),linear-gradient( #ffffff,#a9e8f5 );
+background-repeat: no-repeat;
+background-position: left  bottom;
+
+}
+
+
+#html-snippet-shortcode .plugin-version-author-uri a#osi_update,
+#html-snippet-shortcode.plugin-version-author-uri a#osi_update:link,
+#html-snippet-shortcode .plugin-version-author-uri a#osi_update:hover,
+#html-snippet-shortcode .plugin-version-author-uri a#osi_update:active,
+#html-snippet-shortcode .plugin-version-author-uri a#osi_update:visited
+{
+color: red;
+font-weight: bold;
+text-decoration: blink;
+}
+
+
+
+#html-snippet-shortcode .plugin-version-author-uri a,
+#html-snippet-shortcode .plugin-version-author-uri a:link,
+#html-snippet-shortcode .plugin-version-author-uri a:hover,
+#html-snippet-shortcode .plugin-version-author-uri a:active,
+#html-snippet-shortcode .plugin-version-author-uri a:visited{
+	
+	
+	color: #111111;
+	text-decoration: none;
+	
+}
+#html-snippet-shortcode .plugin-version-author-uri a:hover{
+
+color:#cc811a;
+}
+#html-snippet-shortcode .plugin-title{
+
+background-image: url('../images/osi_logo.png');
+background-repeat: no-repeat;
+background-position: left  bottom;
+
+}
+
+
+#submit_hss{
+	background:#25A6E1;
+	background:-moz-linear-gradient(top,#25A6E1 0%,#188BC0 100%);
+	background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#25A6E1),color-stop(100%,#188BC0));
+	background:-webkit-linear-gradient(top,#25A6E1 0%,#188BC0 100%);
+	background:-o-linear-gradient(top,#25A6E1 0%,#188BC0 100%);
+	background:-ms-linear-gradient(top,#25A6E1 0%,#188BC0 100%);
+	background:linear-gradient(top,#25A6E1 0%,#188BC0 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#25A6E1",endColorstr="#188BC0",GradientType=0);
+	padding:10px 13px;
+	color:#ffffff;
+	font-family:"Helvetica Neue",sans-serif;
+	font-size:15px;
+	cursor:pointer;
+	border: 1px solid #1A87B9;
+    border-radius: 4px 4px 4px 4px;
+    font-weight: normal;
+    font-size: 13px;
+}
+
+ .osi_our_plugins{
+   background: #F2F2F2; /* Old browsers */
+	border: 1px solid #DFDFDF;
+	border-radius:3px;
+	width: 98%;    
+    padding-left: 10px;
+    padding-top:10px;
+	height:auto;
+    min-height: 40px;
+    margin-top:13px;
+    }
+    
+    .osi_our_plugins a{
+    	text-decoration: none;
+    }
+    
+    
+    
+i.osi-hss-own-icon {
+	background-image: url('../images/logo.png');
+}
